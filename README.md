@@ -1,6 +1,10 @@
-This goal is to offer some the visual interpretation of bandit algorithms output.
+# Visual interpretation of bandit algorithms
 
-There are currently 2 notebook:
+![alt text](https://paperswithcode.com/media/tasks/multiarmedbandit_mSsuHAy.jpg)
+
+This goal of this repo is to offer some visual interpretation of bandit algorithms output.
+
+There are currently 2 notebooks:
 
 - `linUCB.ipynb`:  LinUCB algorithm (disjoint model case) from [A Contextual-Bandit Approach to Personalized News Article Recommendation (Li et al 2010 )](https://arxiv.org/pdf/1003.0146)
 
